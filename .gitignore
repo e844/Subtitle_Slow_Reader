@@ -1,0 +1,10 @@
+# Generated subtitle files and local media
+*.srt
+*.mp4
+*.mkv
+*.avi
+*.log
+Thumbs.db
+Desktop.ini
+
+!examples/*.srt
